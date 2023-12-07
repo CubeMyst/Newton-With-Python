@@ -37,10 +37,8 @@ Las ecuaciones que rigen el movimiento de la partícula son las ecuaciones difer
 
 1. **Ecuaciones de Cinemática**:
     
-    $
-     \frac{dx}{dt} = v_x \text{ , } 
-     \frac{dy}{dt} = v_y 
-    $
+    $\frac{dx}{dt} = v_x \text{ , } 
+    \frac{dy}{dt} = v_y$
     
     Estas ecuaciones describen cómo la posición $(x, y)$ de la partícula cambia en función del tiempo $t$, donde $v_x$ y $v_y$  son las componentes de la velocidad en los ejes $x$ e $y$, respectivamente.
     
